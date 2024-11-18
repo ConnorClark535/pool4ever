@@ -11,7 +11,8 @@
         }
       },
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "src/app",
+      "files": ["src/main.js"],
       "prefix": "app",
       "architect": {
         "build": {

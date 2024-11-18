@@ -1,0 +1,68 @@
+const localConfig = {
+  wss_url: "wss://",
+  two_fa: "Exchange Pool4Ever",
+  project_title: "Exchange Pool4Ever",
+  api: {
+    baseURL: "https://exchange.pool4ever.com/api/v1/",
+    basePublicURL: "https://exchange.pool4ever.com/api/public/v1/",
+    host: "exchange.pool4ever.com",
+  },
+  api_url: "https://exchange.pool4ever.com",
+  api_url_plane: "exchange.pool4ever.com",
+  recaptcha_site_key: "6LfC3VInAAAAAOiMivLH03pMe0U97YPSEz7nA0Fl",
+  vue_v: "prod",
+  site_domain: "exchange.pool4ever.com",
+  host: "exchange.pool4ever.com",
+  help_widget: "",
+  // themes: [
+  //   {
+  //     main_color: "",
+  //     second_color: "",
+  //     cancel_color: "",
+  //     login_background: "",
+  //     login_text: "",
+  //     main_background: "",
+  //     main_text: "",
+  //     input_color: "",
+  //     input_text: "",
+  //     block_color: "",
+  //     border_color: "",
+  //     hover_color: "",
+  //   },
+  //   {
+  //     main_color: "",
+  //     second_color: "",
+  //     cancel_color: "",
+  //     login_background: "",
+  //     login_text: "",
+  //     main_background: "",
+  //     main_text: "",
+  //     input_color: "",
+  //     input_text: "",
+  //     block_color: "",
+  //     border_color: "",
+  //     hover_color: "",
+  //   },
+  // ],
+  socials: {
+    telegram: {
+      link: "",
+      title: "sitechange",
+    },
+    telegramNews: {
+      link: "",
+      title: "site_news",
+    },
+    mail: "idanzam@gmail.com",
+    facebook: {
+      link: "",
+      title: "Exchange",
+    },
+    twitter: {
+      link: "",
+      title: "@",
+    },
+  },
+};
+
+export default localConfig;
